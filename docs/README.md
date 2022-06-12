@@ -2,9 +2,9 @@
 
 Bottom-up and top-down, with intent to create human-readable threat modelling examples. A work in progress.
 
-* [De-Anonymisation threat modelling](da/)
-* [Search Engine threat modelling](se/)
-* [E2EE Messaging threat modelling](e2ee/)
+* [De-Anonymisation threat model](da/)
+* [Search Engine threat model](se/)
+* [E2EE Messaging threat model](e2ee/)
 
 Published with [docsify](https://github.com/docsifyjs/docsify) and [GH Pages](https://pages.github.com/).
 
