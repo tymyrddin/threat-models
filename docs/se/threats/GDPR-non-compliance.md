@@ -86,6 +86,6 @@ Where one of these grounds applies, additional safeguards to protect individuals
 
 In short, the GDPR does not forbid profiling. It requires the transparency of all operations, appropriate statistical procedures and accuracy of data. And a strong emphasis is placed on the right to opt out. Which is something the GDPR enforces in all areas where consent is involved, not just profiling.
 
-###Compliance
+### Compliance
 
 >	_Ingest all structured and unstructured information from the entire corpus and search it all for Personally identifiable information (PII) using NLP techniques and tools. The presence of PII cannot be determined by a single approach, but rather by the combined effort of multiple approaches, using contexts, tags, character patterns, dictionaries, B-tree indexes, n-grams and regular expressions, oh, and training spell checkers on specific contexts. Use structured and unstructured signals with machine learning to match person records from across the multiple sources. De-anonymise, re-identify, for the purpose of being able to remove/suppress/transmit the associated data!_
