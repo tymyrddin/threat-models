@@ -1,4 +1,4 @@
-# Overview
+# Threat models
 
 Bottom-up and top-down, with intent to create human-readable threat modelling examples. A work in progress.
 
