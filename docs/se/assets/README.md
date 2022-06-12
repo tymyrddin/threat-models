@@ -1,5 +1,5 @@
 # Assets
 
-* [Search terms](Search-terms.md)   
-* [Index](Index.md) 
-* [Documents](Documents.md)
+- [Search terms](se/assets/Search-terms.md)   
+- [Index](se/assets/Index.md) 
+- [Documents](se/assets/Documents.md)

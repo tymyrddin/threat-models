@@ -1,10 +1,10 @@
 # Attack vectors
 
-* [Article spinning](Article-spinning.md) 
-* [Link farms](Link-farms.md) 
-* [Blog networks](Blog-networks.md) 
-* [Indirect link spamming](Indirect-link-spamming.md) 
-* [Doorway pages](Doorway-pages.md) 
-* [Redirection](Redirection.md) 
-* [Cloaking](Cloaking.md) 
-* [Misconfigurations](Misconfigurations.md)
+- [Article spinning](se/attack-vectors/Article-spinning.md) 
+- [Link farms](se/attack-vectors/Link-farms.md) 
+- [Blog networks](se/attack-vectors/Blog-networks.md) 
+- [Indirect link spamming](se/attack-vectors/Indirect-link-spamming.md) 
+- [Doorway pages](se/attack-vectors/Doorway-pages.md) 
+- [Redirection](se/attack-vectors/Redirection.md) 
+- [Cloaking](se/attack-vectors/Cloaking.md) 
+- [Misconfigurations](se/attack-vectors/Misconfigurations.md)

@@ -1,5 +1,5 @@
 # Adversaries
  
-* [The usual suspects](The-usual-suspects.md) 
-* [Black hat SEO](Black-hat-SEO.md)
-* [Big search engines](Big-search-engines.md)
+- [The usual suspects](se/adversaries/The-usual-suspects.md) 
+- [Black hat SEO](se/adversaries/Black-hat-SEO.md)
+- [Big search engines](se/adversaries/Big-search-engines.md)

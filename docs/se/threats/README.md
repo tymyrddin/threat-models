@@ -7,7 +7,7 @@ Researching and enumerating
 
 The two are intertwined as many of the blackhat SEO techniques can also be used to fool users for more nefarious purposes.
 
-* [Information exposure](Information-exposure.md) 
-* [Exposure to malware](Exposure-to-malware.md) 
-* [Filter bubbles](Filter-bubbles.md) 
-* [GDPR non-compliance](GDPR-non-compliance.md)
+- [Information exposure](se/threats/Information-exposure.md) 
+- [Exposure to malware](se/threats/Exposure-to-malware.md) 
+- [Filter bubbles](se/threats/Filter-bubbles.md) 
+- [GDPR non-compliance](se/threats/GDPR-non-compliance.md)

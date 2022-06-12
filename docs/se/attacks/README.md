@@ -1,10 +1,10 @@
 # Attacks
 
-* [Content spamming](Content-spamming.md)
-* [Link spamming](Link-spamming.md)
-* [Information gathering](Information-gathering.md)
-* [Search engine poisoning](Search-engine-poisoning.md) 
-* [Man-in-the-middle attack](Man-in-the-Middle-attack.md)
-* [Rank fraud](Rank-fraud.md)
+- [Content spamming](se/attacks/Content-spamming.md)
+- [Link spamming](se/attacks/Link-spamming.md)
+- [Information gathering](se/attacks/Information-gathering.md)
+- [Search engine poisoning](se/attacks/Search-engine-poisoning.md) 
+- [Man-in-the-middle attack](se/attacks/Man-in-the-Middle-attack.md)
+- [Rank fraud](se/attacks/Rank-fraud.md)
 
 
