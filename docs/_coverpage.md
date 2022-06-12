@@ -9,7 +9,6 @@
 [GitHub](https://github.com/tymyrddin/threat-models)
 [Overview](#overview)
 
-
 <!-- background color -->
 
 ![color](#333333)
