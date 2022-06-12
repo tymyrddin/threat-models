@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+</head>
+<body>
+    <nav>
+      <a href="#/"><strong>HOME</strong></a>
+      <a href="#/e2ee/"><strong>E2EE MESSAGING</strong></a>
+      <a href="#/se/"><strong>SEARCH ENGINES</strong></a>
+      <a href="#/da/"><strong>DE-ANONYMIZATION</strong></a>
+    </nav>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      name: 'Threat models',
+      themeColor: '#CC0000',
+      loadSidebar: true,
+      coverpage: true,
+      logo: '/_media/logo.png',
+      onlyCover: false,
+      search: {
+        paths: 'auto',
+        placeholder: 'Search (whole site)',
+        noData: 'No results found',
+        depth: 2, // Headline depth, 1 - 6
+        hideOtherSidebarContent: false, // whether to hide other sidebar content
+        },
+      plugins: [
+      function(hook) {
+        var footer = [
+          '<hr/>',
+          '<footer>',
+          '<span><p>Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.</p></span>',
+          '<span><p><a href="https://tymyrddin.space">Ty Myrddin</a> (2022)</p></span>',
+          '</footer>'
+        ].join('');
+
+        hook.afterEach(function(html) {
+          return html + footer;
+        });
+      }
+    ]
+    }
+
+  </script>
+  <!-- Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
