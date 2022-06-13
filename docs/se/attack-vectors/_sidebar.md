@@ -1,29 +1,27 @@
-- [Home](/)
+- [De-Anonymization threat model](da/)
 
-  - [De-Anonymization threat model](da/)
+- [Search Engine threat model](se/)
 
-  - [Search Engine threat model](se/)
-
-    - [Adversaries](se/adversaries/)
+  - [Adversaries](se/adversaries/)
     
-    - [Assets](se/assets/)
+  - [Assets](se/assets/)
     
-    - [Attack vectors](se/attack-vectors/)
+  - [Attack vectors](se/attack-vectors/)
 
-      - [Article spinning](se/attack-vectors/Article-spinning.md) 
-      - [Link farms](se/attack-vectors/Link-farms.md) 
-      - [Blog networks](se/attack-vectors/Blog-networks.md) 
-      - [Indirect link spamming](se/attack-vectors/Indirect-link-spamming.md) 
-      - [Doorway pages](se/attack-vectors/Doorway-pages.md) 
-      - [Redirection](se/attack-vectors/Redirection.md) 
-      - [Cloaking](se/attack-vectors/Cloaking.md) 
-      - [Misconfigurations](se/attack-vectors/Misconfigurations.md)
+    - [Article spinning](se/attack-vectors/Article-spinning.md) 
+    - [Link farms](se/attack-vectors/Link-farms.md) 
+    - [Blog networks](se/attack-vectors/Blog-networks.md) 
+    - [Indirect link spamming](se/attack-vectors/Indirect-link-spamming.md) 
+    - [Doorway pages](se/attack-vectors/Doorway-pages.md) 
+    - [Redirection](se/attack-vectors/Redirection.md) 
+    - [Cloaking](se/attack-vectors/Cloaking.md) 
+    - [Misconfigurations](se/attack-vectors/Misconfigurations.md)
     
-    - [Attacks](se/attacks/)
+  - [Attacks](se/attacks/)
     
-    - [Threats](se/threats/)
+  - [Threats](se/threats/)
 
-    - [Impacts](se/impacts/)
+  - [Impacts](se/impacts/)
 
-  - [E2EE Messaging threat model](e2ee/)
+- [E2EE Messaging threat model](e2ee/)
 

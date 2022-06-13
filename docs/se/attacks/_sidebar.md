@@ -1,26 +1,24 @@
-- [Home](/)
+- [De-Anonymization threat model](da/)
 
-  - [De-Anonymization threat model](da/)
+- [Search Engine threat model](se/)
 
-  - [Search Engine threat model](se/)
-
-    - [Adversaries](se/adversaries/)
+  - [Adversaries](se/adversaries/)
     
-    - [Assets](se/assets/)
+  - [Assets](se/assets/)
     
-    - [Attack vectors](se/attack-vectors/)
+  - [Attack vectors](se/attack-vectors/)
     
-    - [Attacks](se/attacks/)
+  - [Attacks](se/attacks/)
 
-      - [Content spamming](se/attacks/Content-spamming.md)
-      - [Link spamming](se/attacks/Link-spamming.md)
-      - [Information gathering](se/attacks/Information-gathering.md)
-      - [Search engine poisoning](se/attacks/Search-engine-poisoning.md) 
-      - [Man-in-the-middle attack](se/attacks/Man-in-the-Middle-attack.md)
-      - [Rank fraud](se/attacks/Rank-fraud.md)
+    - [Content spamming](se/attacks/Content-spamming.md)
+    - [Link spamming](se/attacks/Link-spamming.md)
+    - [Information gathering](se/attacks/Information-gathering.md)
+    - [Search engine poisoning](se/attacks/Search-engine-poisoning.md) 
+    - [Man-in-the-middle attack](se/attacks/Man-in-the-Middle-attack.md)
+    - [Rank fraud](se/attacks/Rank-fraud.md)
     
-    - [Threats](se/threats/)
+  - [Threats](se/threats/)
 
-    - [Impacts](se/impacts/)
+  - [Impacts](se/impacts/)
 
-  - [E2EE Messaging threat model](e2ee/)
+- [E2EE Messaging threat model](e2ee/)

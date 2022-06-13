@@ -1,32 +1,30 @@
-- [Home](/)
+- [De-Anonymization threat model](da/)
 
-  - [De-Anonymization threat model](da/)
+  - [Adversaries](da/adversaries/)
 
-    - [Adversaries](da/adversaries/)
+  - [Assets](da/assets/)
 
-    - [Assets](da/assets/)
+  - [Attack vectors](da/attack-vectors/)
 
-    - [Attack vectors](da/attack-vectors/)
+  - [Attacks](da/attacks/)
 
-    - [Attacks](da/attacks/)
+  - [Threats](da/threats/)
 
-    - [Threats](da/threats/)
+  - [Assistive technologies](da/assistive-technologies/)
 
-    - [Assistive technologies](da/assistive-technologies/)
+    - [Link prediction](da/assistive-technologies/Link-prediction.md)
+    - [Content analysis](da/assistive-technologies/Content-analysis.md)
+    - [Spammer elimination](da/assistive-technologies/Spammer-elimination.md)
+    - [Adversary skills](da/assistive-technologies/Adversary-skills.md)
+    - [Behavioural analysis](da/assistive-technologies/Behavioural-analysis.md)
+    - [Predictive analysis](da/assistive-technologies/Predictive-analysis.md)
+    - [Data storage](da/assistive-technologies/Data-storage.md)
+    - [Timeliness](da/assistive-technologies/Timeliness.md)
 
-      - [Link prediction](da/assistive-technologies/Link-prediction.md)
-      - [Content analysis](da/assistive-technologies/Content-analysis.md)
-      - [Spammer elimination](da/assistive-technologies/Spammer-elimination.md)
-      - [Adversary skills](da/assistive-technologies/Adversary-skills.md)
-      - [Behavioural analysis](da/assistive-technologies/Behavioural-analysis.md)
-      - [Predictive analysis](da/assistive-technologies/Predictive-analysis.md)
-      - [Data storage](da/assistive-technologies/Data-storage.md)
-      - [Timeliness](da/assistive-technologies/Timeliness.md)
+  - [Uses](da/uses/)
 
-    - [Uses](da/uses/)
+  - [Impacts](da/impacts/)
 
-    - [Impacts](da/impacts/)
+- [Search Engine threat model](se/)
 
-  - [Search Engine threat model](se/)
-
-  - [E2EE Messaging threat model](e2ee/)
+- [E2EE Messaging threat model](e2ee/)

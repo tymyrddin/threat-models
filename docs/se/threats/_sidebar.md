@@ -1,24 +1,22 @@
-- [Home](/)
+- [De-Anonymization threat model](da/)
 
-  - [De-Anonymization threat model](da/)
+- [Search Engine threat model](se/)
 
-  - [Search Engine threat model](se/)
-
-    - [Adversaries](se/adversaries/)
+  - [Adversaries](se/adversaries/)
     
-    - [Assets](se/assets/)
+  - [Assets](se/assets/)
     
-    - [Attack vectors](se/attack-vectors/)
+  - [Attack vectors](se/attack-vectors/)
     
-    - [Attacks](se/attacks/)
+  - [Attacks](se/attacks/)
     
-    - [Threats](se/threats/)
+  - [Threats](se/threats/)
 
-      - [Information exposure](se/threats/Information-exposure.md) 
-      - [Exposure to malware](se/threats/Exposure-to-malware.md) 
-      - [Filter bubbles](se/threats/Filter-bubbles.md) 
-      - [GDPR non-compliance](se/threats/GDPR-non-compliance.md)
+    - [Information exposure](se/threats/Information-exposure.md) 
+    - [Exposure to malware](se/threats/Exposure-to-malware.md) 
+    - [Filter bubbles](se/threats/Filter-bubbles.md) 
+    - [GDPR non-compliance](se/threats/GDPR-non-compliance.md)
 
-    - [Impacts](se/impacts/)
+  - [Impacts](se/impacts/)
 
-  - [E2EE Messaging threat model](e2ee/)
+- [E2EE Messaging threat model](e2ee/)

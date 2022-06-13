@@ -1,23 +1,21 @@
-- [Home](/)
+- [De-Anonymization threat model](da/)
 
-  - [De-Anonymization threat model](da/)
+- [Search Engine threat model](se/)
 
-  - [Search Engine threat model](se/)
-
-    - [Adversaries](se/adversaries/)
+  - [Adversaries](se/adversaries/)
     
-    - [Assets](se/assets/)
+  - [Assets](se/assets/)
 
-      - [Search terms](se/assets/Search-terms.md)   
-      - [Index](se/assets/Index.md) 
-      - [Documents](se/assets/Documents.md)
+    - [Search terms](se/assets/Search-terms.md)   
+    - [Index](se/assets/Index.md) 
+    - [Documents](se/assets/Documents.md)
     
-    - [Attack vectors](se/attack-vectors/)
+  - [Attack vectors](se/attack-vectors/)
     
-    - [Attacks](se/attacks/)
+  - [Attacks](se/attacks/)
     
-    - [Threats](se/threats/)
+  - [Threats](se/threats/)
 
-    - [Impacts](se/impacts/)
+  - [Impacts](se/impacts/)
 
-  - [E2EE Messaging threat model](e2ee/)
+- [E2EE Messaging threat model](e2ee/)
