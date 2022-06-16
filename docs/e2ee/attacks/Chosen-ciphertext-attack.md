@@ -1,6 +1,6 @@
 # Chosen ciphertext attack
 
-In a [chosen-ciphertext attack](https://github.com/tymyrddin/darkest-forest/blob/main/crypto-attacks/Chosen-ciphertext-attack.md) 
+In a [chosen-ciphertext attack](https://tymyrddin.github.io/attack-trees/docs/crypto/Chosen-ciphertext-attack.html) 
 (CCA), an adversary can analyse chosen ciphertexts together with their corresponding plaintexts to acquire a secret key 
 or to get as much information about the system as possible. In this attack, the adversary is assumed to have a way to 
 trick someone who knows the secret key into decrypting arbitrary message blocks and send back the result. The attacker 

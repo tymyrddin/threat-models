@@ -1,6 +1,6 @@
 # Forgery attack
 
-A [forgery attack](https://github.com/tymyrddin/darkest-forest/blob/main/crypto-attacks/Forgery-attack.md) can be mounted by an [E2EE adversary](e2ee/adversaries/E2EE-adversary.md), able to bypass the client-to-server transport encryption.
+A [forgery attack](https://tymyrddin.github.io/attack-trees/docs/crypto/Forgery-attack.html) can be mounted by an [E2EE adversary](e2ee/adversaries/E2EE-adversary.md), able to bypass the client-to-server transport encryption.
 
 A forgery attack can (but not necessarily) lead to an [impersonation attack](e2ee/attacks/Impersonation-attack.md). An impersonation attack is when an adversary can successfully claim an identity that she doesn't possess, and pass authentication (i.e. she can pretend to be another person in the system). 
 
