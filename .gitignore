@@ -28,3 +28,6 @@ htmlcov/
 
 # pytest files
 .pytest_cache/
+
+# Not the static site, will be generated on push
+build/

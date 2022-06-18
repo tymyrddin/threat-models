@@ -1,15 +1,27 @@
 # Threat models
 
-Bottom-up and top-down, with intent to create human-readable threat modelling examples. A work in progress.
-And an exercise in using docsify: https://tymyrddin.github.io/threat-models
+![Publish Threat models using Sphinx](https://github.com/tymyrddin/threat-models/workflows/Publish%20Threat%20models%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/da-threat-model/
 
-Published with [docsify](https://github.com/docsifyjs/docsify) and [GH Pages](https://pages.github.com/).
+Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
+by [Read the Docs](https://readthedocs.org/).
 
-Serve local development server:
+## Requirements
 
+* sphinx — sphinx package
+* sphinx-rtd-theme — a theme package
+* myst-parser — parsing `.md` files
+* sphinx-markdown-tables — package for Markdown tables support
+
+## Usage
+
+Add or change documents in the source folder of the main branch.
+
+Make the build:
 ```bash
-$ docsify serve ./docs
+$ make html
 ```
+
 
 ## Problems or Suggestions
 
