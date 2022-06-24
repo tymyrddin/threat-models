@@ -6,7 +6,8 @@
 Threat models
 =========================================
 
-![Simplified application pipeline](../../_static/img/in-progress.png)
+.. image:: ../../_static/img/in-progress.png
+  :alt: Simplified application pipeline
 
 Bottom-up and top-down, with intent of creating human-readable threat modelling examples.
 
