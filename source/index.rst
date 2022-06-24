@@ -6,7 +6,9 @@
 Threat models
 =========================================
 
-Bottom-up and top-down, with intent to create human-readable threat modelling examples.
+![Simplified application pipeline](../../_static/img/in-progress.png)
+
+Bottom-up and top-down, with intent of creating human-readable threat modelling examples.
 
 .. toctree::
    :maxdepth: 1
@@ -21,4 +23,4 @@ Bottom-up and top-down, with intent to create human-readable threat modelling ex
    docs/da-threat-model.md
    docs/e2ee-threat-model.md
    docs/se-threat-model.md
-
+   docs/cicd-threat-model.md
