@@ -6,10 +6,10 @@
 Threat models
 =========================================
 
-.. image:: ../../_static/img/in-progress.png
-  :alt: Simplified application pipeline
-
 Bottom-up and top-down, with intent of creating human-readable threat modelling examples.
+
+.. image:: _static/img/in-progress.png
+   :alt: Simplified application pipeline
 
 .. toctree::
    :maxdepth: 1
