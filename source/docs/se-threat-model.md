@@ -8,46 +8,46 @@ search rank spam and fraud threats to search engines and their users.
 
 ## Adversaries
 
-- [Big search engines](https://tymyrddin.github.io/se-threat-model/docs/adversaries/Big-search-engines.md)
-- [Black hat SEO](https://tymyrddin.github.io/se-threat-model/docs/adversaries/Black-hat-SEO.md)
-- [The usual suspects](https://tymyrddin.github.io/se-threat-model/docs/adversaries/The-usual-suspects.md) 
+- [Big search engines](https://tymyrddin.github.io/se-threat-model/docs/adversaries/Big-search-engines.html)
+- [Black hat SEO](https://tymyrddin.github.io/se-threat-model/docs/adversaries/Black-hat-SEO.html)
+- [The usual suspects](https://tymyrddin.github.io/se-threat-model/docs/adversaries/The-usual-suspects.html) 
   
 ## Assets
 
-- [Documents](https://tymyrddin.github.io/se-threat-model/docs/assets/Documents.md)
-- [Index](https://tymyrddin.github.io/se-threat-model/docs/assets/Index.md) 
-- [Search terms](https://tymyrddin.github.io/se-threat-model/docs/assets/Search-terms.md)
+- [Documents](https://tymyrddin.github.io/se-threat-model/docs/assets/Documents.html)
+- [Index](https://tymyrddin.github.io/se-threat-model/docs/assets/Index.html) 
+- [Search terms](https://tymyrddin.github.io/se-threat-model/docs/assets/Search-terms.html)
   
 ## Attack vectors
 
-- [Article spinning](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Article-spinning.md) 
-- [Blog networks](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Blog-networks.md) 
-- [Cloaking](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Cloaking.md) 
-- [Doorway pages](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Doorway-pages.md) 
-- [Indirect link spamming](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Indirect-link-spamming.md)
-- [Link farms](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Link-farms.md) 
-- [Misconfigurations](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Misconfigurations.md)
-- [Redirection](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Redirection.md) 
+- [Article spinning](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Article-spinning.html) 
+- [Blog networks](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Blog-networks.html) 
+- [Cloaking](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Cloaking.html) 
+- [Doorway pages](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Doorway-pages.html) 
+- [Indirect link spamming](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Indirect-link-spamming.html)
+- [Link farms](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Link-farms.html) 
+- [Misconfigurations](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Misconfigurations.html)
+- [Redirection](https://tymyrddin.github.io/se-threat-model/docs/attack-vectors/Redirection.html) 
 
 ## Attacks
 
-- [Content spamming](https://tymyrddin.github.io/se-threat-model/docs/attacks/Content-spamming.md)
-- [Information gathering](https://tymyrddin.github.io/se-threat-model/docs/attacks/Information-gathering.md)
-- [Link spamming](https://tymyrddin.github.io/se-threat-model/docs/attacks/Link-spamming.md)
-- [Man-in-the-middle attack](https://tymyrddin.github.io/se-threat-model/docs/attacks/Man-in-the-Middle-attack.md)
-- [Rank fraud](https://tymyrddin.github.io/se-threat-model/docs/attacks/Rank-fraud.md)
-- [Search engine poisoning](https://tymyrddin.github.io/se-threat-model/docs/attacks/Search-engine-poisoning.md)
+- [Content spamming](https://tymyrddin.github.io/se-threat-model/docs/attacks/Content-spamming.html)
+- [Information gathering](https://tymyrddin.github.io/se-threat-model/docs/attacks/Information-gathering.html)
+- [Link spamming](https://tymyrddin.github.io/se-threat-model/docs/attacks/Link-spamming.html)
+- [Man-in-the-middle attack](https://tymyrddin.github.io/se-threat-model/docs/attacks/Man-in-the-Middle-attack.html)
+- [Rank fraud](https://tymyrddin.github.io/se-threat-model/docs/attacks/Rank-fraud.html)
+- [Search engine poisoning](https://tymyrddin.github.io/se-threat-model/docs/attacks/Search-engine-poisoning.html)
   
 ## Threats
 
-- [Exposure to malware](https://tymyrddin.github.io/se-threat-model/docs/threats/Exposure-to-malware.md) 
-- [Filter bubbles](https://tymyrddin.github.io/se-threat-model/docs/threats/Filter-bubbles.md) 
-- [GDPR non-compliance](https://tymyrddin.github.io/se-threat-model/docs/threats/GDPR-non-compliance.md)
-- [Information exposure](https://tymyrddin.github.io/se-threat-model/docs/threats/Information-exposure.md) 
+- [Exposure to malware](https://tymyrddin.github.io/se-threat-model/docs/threats/Exposure-to-malware.html) 
+- [Filter bubbles](https://tymyrddin.github.io/se-threat-model/docs/threats/Filter-bubbles.html) 
+- [GDPR non-compliance](https://tymyrddin.github.io/se-threat-model/docs/threats/GDPR-non-compliance.html)
+- [Information exposure](https://tymyrddin.github.io/se-threat-model/docs/threats/Information-exposure.html) 
   
 ## Impacts
 
-- [↑ Filter bubbles?](https://tymyrddin.github.io/se-threat-model/docs/impacts/Filter-bubbles.md)
-- [↑ Malware proliferation](https://tymyrddin.github.io/se-threat-model/docs/impacts/Malware-proliferation.md)
-- [↑ Oil of the twenty-first century and ↓ Competition](https://tymyrddin.github.io/se-threat-model/docs/impacts/Oil-of-the-twenty-first-century-and-Competition.md)
-- [↑ Spam content](https://tymyrddin.github.io/se-threat-model/docs/impacts/Spam-content.md)
+- [↑ Filter bubbles?](https://tymyrddin.github.io/se-threat-model/docs/impacts/Filter-bubbles.html)
+- [↑ Malware proliferation](https://tymyrddin.github.io/se-threat-model/docs/impacts/Malware-proliferation.html)
+- [↑ Oil of the twenty-first century and ↓ Competition](https://tymyrddin.github.io/se-threat-model/docs/impacts/Oil-of-the-twenty-first-century-and-Competition.html)
+- [↑ Spam content](https://tymyrddin.github.io/se-threat-model/docs/impacts/Spam-content.html)
