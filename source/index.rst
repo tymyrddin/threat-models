@@ -8,21 +8,10 @@ Threat models
 
 Bottom-up and top-down, with intent of creating human-readable threat modelling examples.
 
-.. image:: _static/img/in-progress.png
-   :alt: Simplified application pipeline
-
 .. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: On threat modelling
 
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Works in progress
-
-   docs/da-threat-model.md
-   docs/e2ee-threat-model.md
-   docs/se-threat-model.md
-   docs/cicd-threat-model.md
-   docs/app-threat-model.md
+   Deanonymisation threat model <https://tymyrddin.github.io/da-threat-model/>
+   E2EE threat model <https://tymyrddin.github.io/e2ee-threat-model/>
+   Search engine threat model <https://tymyrddin.github.io/se-threat-model/>
+   CI/CD threat model <https://tymyrddin.github.io/cicd-threat-model/>
+   Application threat model <https://tymyrddin.github.io/app-threat-model/>
