@@ -43,7 +43,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['README.md']
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -66,8 +66,8 @@ html_theme_options = {
 }
 
 html_title = "Threat models"
-html_logo = "images/logo.png"
-html_favicon = "images/favicon.ico"
+html_logo = "img/logo.png"
+html_favicon = "img/favicon.ico"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
