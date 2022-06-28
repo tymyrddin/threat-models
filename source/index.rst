@@ -25,3 +25,4 @@ Bottom-up and top-down, with intent of creating human-readable threat modelling 
    docs/e2ee-threat-model.md
    docs/se-threat-model.md
    docs/cicd-threat-model.md
+   docs/app-threat-model.md
