@@ -10,7 +10,7 @@ Bottom-up and top-down, with intent of creating human-readable threat modelling 
 
 .. toctree::
 
-   Deanonymisation threat model <https://tymyrddin.github.io/da-threat-model/>
+   De-anonymisation threat model <https://tymyrddin.github.io/da-threat-model/>
    E2EE threat model <https://tymyrddin.github.io/e2ee-threat-model/>
    Search engine threat model <https://tymyrddin.github.io/se-threat-model/>
    CI/CD threat model <https://tymyrddin.github.io/cicd-threat-model/>
