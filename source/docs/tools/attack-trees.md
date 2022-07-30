@@ -1,4 +1,8 @@
-# Attack Trees 
+# About attack Trees 
+
+There are DREAD, P.A.S.T.A., STRIDE and VAST methods. Using these makes us thing along structured lines, thinking
+all is covered when we have used it, and confident we are secure. We prefer attack trees because it allows us to 
+**think**.
 
 Attack trees are the conceptual diagram showing how an asset, or target, might be attacked. These are multi-level 
 diagrams consisting of one root node, leaves, and children nodes. Bottom to Top, child nodes are conditions that must 
