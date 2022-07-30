@@ -1,3 +1,0 @@
-# P.A.S.T.A.
-
-The Process for Attack Simulation and Threat Analysis (PASTA) is a seven-step, risk-centric methodology. The purpose is to provide a dynamic threat identification, enumeration, and scoring process. Upon completion of the threat model, security subject matter experts develop a detailed analysis of the identified threats. Finally, appropriate security controls can be enumerated. This helps developers to develop an asset-centric mitigation strategy by analyzing the attacker-centric view of an application. 
